@@ -1,5 +1,4 @@
 open.spotify.com
-robertordercharacter.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 win-global-asimov-leafs-events-data.trafficmanager.net
@@ -7,7 +6,6 @@ arc.msn.com
 arc.trafficmanager.net
 br24.de
 br.de
-www.maxfinishseveral.com
 click.discord.com
 s.youtube.com
 api.spotify.com
