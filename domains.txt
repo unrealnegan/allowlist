@@ -14,3 +14,4 @@ www.scdn.co
 api-partner.spotify.com
 cdn.cookielaw.org
 audio-akp.spotifycdn.com
+login.dhl.de
